@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "IonSelectBug",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
